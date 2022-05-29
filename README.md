@@ -1,1 +1,1 @@
-# JavaTasks
+#Tasks for course Java. Базовый курс[Stepik]
